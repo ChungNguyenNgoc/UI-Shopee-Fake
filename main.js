@@ -1,0 +1,2 @@
+console.log('%cStop!', 'color: red; font-weight: 600; font-size: 40px; font-family: sans-serif; text-shadow: 0px 0px 3px #000;');
+console.log('%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a ChungNN-Shop feature or \"hack\" someone\'s account, it is a scam and will give them access to your ChungNN-Shop account @@!...', 'color: #444; font-size: 20px; font-family: sans-serif;');
